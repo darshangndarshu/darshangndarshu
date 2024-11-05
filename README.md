@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a coder
+I am a coder!
 
 
 # 💻 Tech Stack:
